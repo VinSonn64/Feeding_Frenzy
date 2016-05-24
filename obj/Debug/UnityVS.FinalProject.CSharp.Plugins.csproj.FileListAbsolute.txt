@@ -1,0 +1,9 @@
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\obj\Debug\UnityVS.FinalProject.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Kevin\Documents\Columbia\Game Engine Scripting\FinalProject\obj\Debug\Assembly-CSharp-firstpass.pdb
